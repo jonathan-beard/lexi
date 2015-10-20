@@ -20,4 +20,16 @@
 #ifndef _PARSEWORDS_HPP_
 #define _PARSEWORDS_HPP_  1
 
+namespace lexi
+{
+class parsewords 
+{
+public:
+    parsewords() = default;
+    virtual ~parsewords() = default;
+
+
+private:
+};
+}
 #endif /* END _PARSEWORDS_HPP_ */
